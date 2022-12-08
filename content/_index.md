@@ -67,12 +67,6 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: markdown
-    id: abouta
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      # Override your bio text from `authors/admin/_index.md`?
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: collection
     id: posts
     content:
@@ -127,6 +121,13 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: markdown
+    id: abouta
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      # Override your bio text from `authors/admin/_index.md`?
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      {{< figure src="icon.png" caption="A caption" numbered="true" >}}pp
   - block: markdown
     content:
       title: Gallery
