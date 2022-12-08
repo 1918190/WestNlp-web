@@ -84,7 +84,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Recent Posts[filtering publications](./publication/).
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
