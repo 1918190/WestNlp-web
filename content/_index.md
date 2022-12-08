@@ -18,8 +18,8 @@ sections:
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
     design:
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: '#ffb61e'
+        gradient_start: '#00e500'
         text_color_light: true
   - block: about.avatar
     id: about
