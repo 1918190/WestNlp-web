@@ -67,6 +67,13 @@ sections:
           url: ''
     design:
       columns: '2'
+  - block: markdown
+    id: abouta
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      # Override your bio text from `authors/admin/_index.md`?
+      text:
   - block: collection
     id: posts
     content:
