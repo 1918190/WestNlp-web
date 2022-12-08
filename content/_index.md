@@ -21,8 +21,8 @@ sections:
         gradient_end: '#ffb61e'
         gradient_start: '#00e500'
         text_color_light: true
-  - block: fdsfds
-    id: about1
+  - block: about.fdsfds
+    id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -34,7 +34,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: about.avatar
-    id: about
+    id: about1
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: dsfsd
