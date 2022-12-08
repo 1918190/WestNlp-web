@@ -43,7 +43,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-superuser: true
+superuser: false
 status:
   icon: ☕️
 last_name: Wu
