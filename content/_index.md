@@ -130,7 +130,7 @@ sections:
         dssfds**dfdsfd**
         <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"/>
         456
-        <table border="1">
+        <table width="100%">
             <tr>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
