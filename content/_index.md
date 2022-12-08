@@ -126,8 +126,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      |-
+      text: |-
       {{< figure src="icon.png" caption="A caption" numbered="true" >}}
   - block: markdown
     content:
