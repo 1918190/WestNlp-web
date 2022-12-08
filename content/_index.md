@@ -127,10 +127,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
       text: |-
-        {{< figure src="icon.jpg" caption="**A caption**" numbered="true" >}}**Ad caption**
-        {{< figure src="icon.jpg" caption="**A caption**" numbered="true" >}}**Ad caption**
-        {{< figure src="icon.jpg" caption="**A caption**" numbered="true" >}}**Ad caption**
-        {{< figure src="icon.jpg" caption="**A caption**" numbered="true" >}}**Ad caption**
+        {{< figure src="icon.jpg" caption="**A caption**" resize_options="250x250"  >}}**Ad caption**
+        {{< figure src="icon.jpg" caption="**A caption**" resize_options="250x250"  >}}**Ad caption**
+        {{< figure src="icon.jpg" caption="**A caption**" resize_options="250x250"  >}}**Ad caption**
+        {{< figure src="icon.jpg" caption="**A caption**" resize_options="250x250"  >}}**Ad caption**
   - block: markdown
     content:
       title: Gallery
