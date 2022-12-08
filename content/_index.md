@@ -126,7 +126,8 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
-      text: 2545hh
+      text: |-
+        {{< figure src="icon.jpg" caption="A caption" numbered="true" >}}
   - block: markdown
     content:
       title: Gallery
