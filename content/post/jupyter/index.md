@@ -20,7 +20,6 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 ```
 
 ![png](./index_1_0.png)
-![filtering publications](./index_1_0.png "sasa")
 
 ```python
 print("Welcome to Academic!")
