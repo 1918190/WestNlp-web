@@ -4,14 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
-gallery_item:
-  - album: demo
-    image: chris-montgomery-smgTvepind4-unsplash.jpg
-    caption: Write your image 1 caption here
-  - album: demo
-    image: dan-gold-4_jhDO54BYg-unsplash-f.jpg
-    caption: Write your image 2 caption here
-
 sections:
   - block: hero
     content:
@@ -84,7 +76,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts[filtering publications](./publication/).
+      title: Recent Posts[filtering publications](https://www.edx.org).
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -141,6 +133,28 @@ sections:
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
+      gallery_item:
+      - album: demo
+        image: chris-montgomery-smgTvepind4-unsplash.jpg
+        caption: Write your image 1 caption here
+      - album: demo
+        image: dan-gold-4_jhDO54BYg-unsplash-f.jpg
+        caption: Write your image 2 caption here
+      - album: demo
+        image: fotografierende-333oj7zFsdg-unsplash.jpg
+        caption: Write your image 2 caption here
+      - album: demo
+        image: glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
+        caption: Write your image 2 caption here
+      - album: demo
+        image: joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg
+        caption: Write your image 2 caption here
+      - album: demo
+        image: matthew-osborn-wMRIcT86SWU-unsplash-l.jpg
+        caption: Write your image 2 caption here
+      - album: demo
+        image: priscilla-du-preez-K8XYGbw4Ahg-unsplash.jpg
+        caption: Write your image 2 caption here            
     design:
       columns: '1'
   - block: collection
