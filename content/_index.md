@@ -130,7 +130,7 @@ sections:
         dssfds**dfdsfd**
         <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"/>
         456
-        <img src="../assets/media/icon.jpg"/>
+        <img src="./post/jupyter/index_1_0.png"/>
         ![filtering publications](./post/jupyter/index_1_0.png "sasa")
   - block: markdown
     content:
