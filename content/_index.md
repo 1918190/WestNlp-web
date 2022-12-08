@@ -72,7 +72,8 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
-      text:'<div style="text-shadow: none;">dsdas</div>'
+      text: >-
+        <div style="text-shadow: none;">dsdas</div>
   - block: collection
     id: posts
     content:
