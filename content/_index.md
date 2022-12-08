@@ -126,17 +126,14 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
-      text: |-
-        {{< figure src="icon.jpg" caption="**A caption**" >}}**Ad caption**
-        {{< figure src="icon.jpg" caption="**A caption**" >}}**Ad caption**
-        {{< figure src="icon.jpg" caption="**A caption**" >}}**Ad caption**
-        {{< figure src="icon.jpg" caption="**A caption**" >}}**Ad caption**
+      text: >-
+        <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
   - block: markdown
     content:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" resize_options="20x20">}}           
+        {{< gallery album="demo">}}           
     design:
       columns: '1'  
   - block: collection
