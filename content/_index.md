@@ -128,7 +128,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: >-
         <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-        <img src="https://unsplash.com/photos/jdD8gXaTZsc"/>
+        <img src="https://unsplash.com/photos/pLCdAaMFLTE"/>
   - block: markdown
     content:
       title: Gallery
