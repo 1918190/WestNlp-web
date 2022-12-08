@@ -72,18 +72,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
-      text: 
-        564554dfsfssadd
-         ```mermaid
-        gantt
-          dateFormat  YYYY-MM-DD
-          section Section
-          A task           :a1, 2014-01-01, 30d
-          Another task     :after a1  , 20d
-          section Another
-          Task in sec      :2014-01-12  , 12d
-          another task      : 24d
-        ```
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: collection
     id: posts
     content:
