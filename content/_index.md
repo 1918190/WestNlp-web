@@ -21,13 +21,6 @@ sections:
         gradient_end: '#ffb61e'
         gradient_start: '#00e500'
         text_color_light: true
-  - block: about.fdsfds
-    id: about
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      # Override your bio text from `authors/admin/_index.md`?
-      text:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
