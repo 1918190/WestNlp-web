@@ -70,7 +70,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts[filtering publications](https://www.datacamp.com).
+      title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -127,7 +127,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      {{< figure src="icon.png" caption="A caption" numbered="true" >}}pp
+      {{< figure src="icon.png" caption="A caption" numbered="true" >pp}}pp
   - block: markdown
     content:
       title: Gallery
