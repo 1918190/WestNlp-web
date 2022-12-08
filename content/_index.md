@@ -128,6 +128,9 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: |-
         {{< figure src="icon.jpg" caption="**A caption**" numbered="true" >}}**Ad caption**
+        {{< figure src="icon.jpg" caption="**A caption**" numbered="true" >}}**Ad caption**
+        {{< figure src="icon.jpg" caption="**A caption**" numbered="true" >}}**Ad caption**
+        {{< figure src="icon.jpg" caption="**A caption**" numbered="true" >}}**Ad caption**
   - block: markdown
     content:
       title: Gallery
