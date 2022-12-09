@@ -91,14 +91,14 @@ sections:
         ## Current Students
         <table width="100%" align="center">
             <tr>
-                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/>dasdsa</td>
-                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
-                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/><h4>student 1</h4></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/><h4>student 1</h4></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/><h4>student 1</h4></td>
             </tr>
             <tr>
-                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
-                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
-                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
             </tr>
         </table> 
 
