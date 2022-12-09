@@ -11,12 +11,8 @@ sections:
       image:
         filename: hero-academic.png
       text: |-
-        　**张岳博士主要的研究领域为自然语言处理、文本挖掘、机器学习和人工智能，具体研究方向包括：**
+        **Dr. Zhang's main research interests are natural language processing, text mining, machine learning and artificial intelligence, including natural language processing, text mining, machine learning and artificial intelligence.**
 
-      　　1.中英文基础自然语言处理中的词法、句法及语义表示，分析。
-      　　2.信息抽取中的实体、关系、事件以及情感抽取。
-      　　3.金融领域、生物医药领域以及文学领域的文本挖掘。
-      　　4.自然语言生成及其在文本总结与机器翻译中的应用。
     design:
       background:
         gradient_end: '#5071E0'
