@@ -1,8 +1,8 @@
 ---
 title: 张岳
 role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include natural language processing, its underlying
+  machine learning algorithms and downstream applications.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -45,4 +45,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a tenured full professor at Westlake University. I worked as associate professor at Westlake University from Sep 2018 to Jun 2022, and assistant professor at Singapore Universit of Technology and Design from Sep 2012 to Aug 2018. Before joining SUTD, I worked as a postdoctoral research associate at University of Cambridge. I received my PhD degree from University of Oxford in Dec 2009, working on statistical Chinese processing for [my thesis](https://frcchang.github.io/pub/thesis.pdf). I received my MSc degree from University of Oxford in Oct 2006, working on statistical machine translation from Chinese to English by parsing ([MSc thesis](https://frcchang.github.io/pub/mscthesis.pdf)). I received my undergraduate degree on Computer Science from Tsinghua University, China.
