@@ -101,6 +101,7 @@ sections:
                 <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
             </tr>
         </table> 
+
         ## Research Assistants
         <table width="100%" align="center">
             <tr>
@@ -114,6 +115,7 @@ sections:
                 <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
             </tr>
         </table>
+
         ## Alummi
         <table width="100%" align="center">
             <tr>
