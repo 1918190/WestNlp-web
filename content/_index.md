@@ -101,6 +101,8 @@ sections:
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
             </tr>
         </table>
+      design:
+        columns: '2'  
   - block: markdown
     content:
       title: Gallery
