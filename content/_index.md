@@ -91,9 +91,9 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: |-
         <center>## Current Students</center>
-        <table width="100%">
+        <table width="100%" align="center">
             <tr>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/><br>dasdsa</td>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
             </tr>
@@ -104,7 +104,7 @@ sections:
             </tr>
         </table>
         <center>## Research Assistants</center>
-        <table width="100%">
+        <table width="100%" align="center">
             <tr>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
@@ -117,7 +117,7 @@ sections:
             </tr>
         </table>
         <center>## Alummi</center>
-        <table width="100%">
+        <table width="100%" align="center">
             <tr>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
