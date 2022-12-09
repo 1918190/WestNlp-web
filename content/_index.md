@@ -83,20 +83,48 @@ sections:
       # For Showcase view, flip alternate rows?
 #      flip_alt_rows: false
   - block: markdown
-    id: students
+    id: people
     content:
-      title: All Students
+      title: People
       subtitle: PHD
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
       text: |-
-        <center>## dssfds</center>
+        <center>## Current Students</center>
         <table width="100%">
             <tr>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
             </tr>
             <tr>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+            </tr>
+        </table>
+        <center>## Research Assistants</center>
+        <table width="100%">
+            <tr>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+            </tr>
+            <tr>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+            </tr>
+        </table>
+        <center>## Alummi</center>
+        <table width="100%">
+            <tr>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+            </tr>
+            <tr>
+                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
             </tr>
