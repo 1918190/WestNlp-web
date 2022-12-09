@@ -90,7 +90,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
       text: |-
-        #dssfds
+        ## dssfds
         <table width="100%">
             <tr>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
