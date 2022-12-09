@@ -93,40 +93,40 @@ sections:
         <center>## Current Students</center>
         <table width="100%" align="center">
             <tr>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/><br>dasdsa</td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/><br>dasdsa</td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
             </tr>
             <tr>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
             </tr>
         </table>
         <center>## Research Assistants</center>
         <table width="100%" align="center">
             <tr>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
             </tr>
             <tr>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
             </tr>
         </table>
         <center>## Alummi</center>
         <table width="100%" align="center">
             <tr>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
             </tr>
             <tr>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
             </tr>
         </table>
       design:
