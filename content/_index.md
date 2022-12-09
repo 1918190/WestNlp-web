@@ -91,7 +91,7 @@ sections:
         ## Current Students
         <table width="100%" align="center">
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#C3C6CD">PHD student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><a href="https://frcchang.github.io/">student 1</a></td>
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><a href="https://frcchang.github.io/">student 1</a></td>
             </tr>
