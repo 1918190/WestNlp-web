@@ -93,40 +93,40 @@ sections:
         ## Current Students
         <table width="100%" align="center">
             <tr>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/>dasdsa</td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/>dasdsa</td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
             </tr>
             <tr>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
             </tr>
         </table>
         ## Research Assistants
         <table width="100%" align="center">
             <tr>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
             </tr>
             <tr>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
             </tr>
         </table>
         ## Alummi
         <table width="100%" align="center">
             <tr>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
             </tr>
             <tr>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
             </tr>
         </table>
       design:
