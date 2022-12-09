@@ -31,7 +31,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Recent News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -90,9 +90,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
       text: |-
-        dssfds**dfdsfd**
-        <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"/>
-        456
+        #dssfds
         <table width="100%">
             <tr>
                 <td><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
@@ -155,7 +153,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Join Us
       subtitle:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
