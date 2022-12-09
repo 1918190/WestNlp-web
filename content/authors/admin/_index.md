@@ -24,12 +24,12 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: WestLake University
+    url: https://www.westlake.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence5454456
-      institution: Stanford Universityfdgfdgsdgfsgsdf
+      institution: WestLake University
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
