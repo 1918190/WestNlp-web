@@ -13,6 +13,11 @@ sections:
       text: |-
         **Dr. Zhang's main research interests are natural language processing, text mining, machine learning and artificial intelligence, including natural language processing, text mining, machine learning and artificial intelligence.**
 
+        1.Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
+      　2. Extraction of entities, relationships, events and emotions in information extraction.
+      　3. Text mining in the field of finance, biomedicine and literature.
+      　4.Natural language generation and its application in text summarization and machine translation.
+
     design:
       background:
         gradient_end: '#5071E0'
@@ -90,14 +95,14 @@ sections:
         ## Current Students
         <table width="100%" align="center">
             <tr>
-                <td align="center" style="margin-bottom:10px"><img src="./authors/admin/avatar.jpg" width="120" height="200"/>dasdsa</td>
-                <td align="center" style="margin-bottom:10px"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center" style="margin-bottom:10px"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/>dasdsa</td>
+                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
+                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
             </tr>
             <tr>
-                <td align="center" style="margin-bottom:10px"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center" style="margin-bottom:10px"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center" style="margin-bottom:10px"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
+                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
+                <td align="center" style="margin-bottom:20px"><img src="./authors/admin/avatar.jpg" width="150" height="200"/></td>
             </tr>
         </table> 
         ## Research Assistants
