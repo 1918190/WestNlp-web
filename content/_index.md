@@ -90,12 +90,12 @@ sections:
       text: |-
         ## Current Students
         <table width="100%" align="center">
-            <tr style="margin-bottom:40px">
+            <tr>
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>
             </tr>
-            <tr style="margin-bottom:40px">
+            <tr>
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>
@@ -105,28 +105,28 @@ sections:
         ## Research Assistants
         <table width="100%" align="center">
             <tr>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">ZheJiang University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">ZheJiang University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">ZheJiang University</font></td>
             </tr>
             <tr>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">ZheJiang University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">ZheJiang University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">ZheJiang University</font></td>
             </tr>
         </table>
 
         ## Alummi
         <table width="100%" align="center">
             <tr>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">Tencent</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">360</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">SenseTime</font></td>
             </tr>
             <tr>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
-                <td align="center"><img src="./authors/admin/avatar.jpg" width="120" height="200"/></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">CUHK</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">ByteDance</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">MeiTuan</font></td>
             </tr>
         </table>
       design:
