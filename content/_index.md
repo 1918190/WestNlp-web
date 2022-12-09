@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: WestLake Nlp
       image:
         filename: hero-academic.png
       text: |-
@@ -86,47 +86,47 @@ sections:
     id: people
     content:
       title: People
-      subtitle: PHD
+      subtitle: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
       text: |-
-        <center>## Current Students</center>
+        ## Current Students
         <table width="100%" align="center">
             <tr>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/><br>dasdsa</td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/>dasdsa</td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
             </tr>
             <tr>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
             </tr>
         </table>
-        <center>## Research Assistants</center>
+        ## Research Assistants
         <table width="100%" align="center">
             <tr>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
             </tr>
             <tr>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
             </tr>
         </table>
-        <center>## Alummi</center>
+        ## Alummi
         <table width="100%" align="center">
             <tr>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
             </tr>
             <tr>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
-                <td align="center"><img src="./post/jupyter/index_1_0.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
+                <td align="center"><img src="./authors/admin/avatar.png" width="120" height="200"/></td>
             </tr>
         </table>
       design:
@@ -186,7 +186,7 @@ sections:
       title: Join Us
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Welcome to join us!
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
