@@ -19,7 +19,7 @@ sections:
         gradient_end: '#5071E0'
         gradient_start: '#3E5DC7'
         text_color_light: true
-  - block: about.about
+  - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
