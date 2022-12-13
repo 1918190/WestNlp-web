@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: WestLake Nlp
-#      image:
-#        filename: hero-academic.png
+      image:
+        filename: hero-academic.png
       text: |-
         **Dr. Zhang's main research interests are natural language processing, text mining, machine learning and artificial intelligence, including natural language processing, text mining, machine learning and artificial intelligence.**
 
