@@ -19,13 +19,13 @@ sections:
         gradient_end: '#5071E0'
         gradient_start: '#3E5DC7'
         text_color_light: true
-#  - block: about.avatar
-#    id: about
-#    content:
+  - block: about
+    id: about
+    content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-#      username: admin
+      username: admin
       # Override your bio text from `authors/admin/_index.md`?
-#      text:
+      text:
   - block: collection
     id: posts
     content:
