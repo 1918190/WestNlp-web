@@ -88,6 +88,13 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
       text: |-
+        ## Faculty
+        <table width="100%" align="center">
+            <tr>
+                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="200" height="300"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Zhang Yue</a></h4><font color="#9EA0A4">Tenured Full Professor</font></td>
+            </tr>
+        </table> 
+
         ## Post Doc
         <table width="100%" align="center">
             <tr>
