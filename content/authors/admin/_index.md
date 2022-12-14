@@ -1,5 +1,4 @@
 ---
-widget: about
 title: 张岳
 role: Professor of Artificial Intelligence
 bio: My research interests include natural language processing, its underlying
