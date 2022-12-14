@@ -16,8 +16,8 @@ sections:
         Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
     design:
       background:
-        gradient_end: '#5071E0'
-        gradient_start: '#3E5DC7'
+        gradient_end: '#ffffff'
+        gradient_start: '#ffffff'
         text_color_light: true
 #  - block: about.avatar
 #    id: about
