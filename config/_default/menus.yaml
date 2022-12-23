@@ -7,6 +7,9 @@ main:
 #  - name: Professor
 #    url: '#about'
 #    weight: 10
+  - name: Home
+    url: '#introduction'
+    weight: 10
   - name: News
     url: '#posts'
     weight: 20

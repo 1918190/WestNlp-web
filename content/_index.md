@@ -30,6 +30,7 @@ sections:
           position: center
           parallax: false
   - block: hero
+    id: introduction
     content:
       title: 
         <font color="#ff7b00">Introduction</font>
@@ -232,7 +233,8 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Join Us
+      title: 
+        <font color="#ff7b00">Join Us</font>
       subtitle:
       text: |-
         Welcome to join us!
