@@ -52,8 +52,8 @@ sections:
     design:
       # Choose a layout view
       background:
-        gradient_end: '#9EA0A4'
-        gradient_start: '#9EA0A4'
+        gradient_end: '#ff7b00'
+        gradient_start: '#ff7b00'
       view: compact
       columns: '2'
 #  - block: portfolio
