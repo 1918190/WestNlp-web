@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: markdown
-    id: header2
+    id: imghead
     content:
       title: |-
         **WestLake Nlp Lab**
@@ -31,7 +31,8 @@ sections:
           parallax: false
   - block: hero
     content:
-      title: Introduction
+      title: 
+        <font color="#ff7b00">Introduction</font>
       image:
         filename: sch.jpg
       text: |-
@@ -54,7 +55,8 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent News
+      title: 
+        <font color="#ff7b00">Recent News</font>
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -270,4 +272,18 @@ sections:
         gradient_start: '#003055'
         text_color_light: true
       columns: '2'
+  - block: markdown
+    id: imgtail
+    content:
+      title: 
+      subtitle: ''
+      text:
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["15px", "0", "15px", "0"]
+      background:
+        gradient_end: '#ff7b00'
+        gradient_start: '#ff7b00'
+        text_color_light: true
 ---
