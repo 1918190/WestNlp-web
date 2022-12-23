@@ -41,11 +41,6 @@ sections:
         Dr. Zhang's main research interests are natural language processing, text mining, machine learning and artificial intelligence, including natural language processing, text mining, machine learning and artificial intelligence.
 
         Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
-    design:
-      background:
-        gradient_end: '#ffffff'
-        gradient_start: '#ffffff'
-        text_color_light: false
 #  - block: about.avatar
 #    id: about
 #    content:
@@ -79,6 +74,10 @@ sections:
       order: desc
     design:
       # Choose a layout view
+      background:
+        gradient_end: '#eacd76'
+        gradient_start: '#eacd76'
+        text_color_light: false
       view: compact
       columns: '2'
 #  - block: portfolio
