@@ -9,11 +9,11 @@ sections:
     id: header2
     content:
       title: |-
-        **WestLake Nlp Lab**
+        <p align="left">WestLake Nlp Lab</p>
       subtitle: ''
       text:
-        <p align="center">Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
-        {{% cta cta_link="https://frcchang.github.io/" cta_text="View Our Github →" %}}</p>
+        Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
+        {{% cta cta_link="https://frcchang.github.io/" cta_text="View Our Github →" %}}
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
