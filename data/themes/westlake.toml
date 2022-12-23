@@ -2,7 +2,7 @@
 name = "Custom Theme"
 
 [light]
-  primary = "#0072ff"
+  primary = "#FF6461"
 
   # Links
   link = "#3273dc"
