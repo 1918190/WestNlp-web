@@ -10,9 +10,9 @@ name = "Custom Theme"
 
   # Menu
   menu_primary = "#003055"
-  menu_text = "#000"
+  menu_text = "#FFFFFF"
   menu_text_active = "#ff7b00"
-  menu_title = "#000"
+  menu_title = "#FFFFFF"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
