@@ -75,8 +75,8 @@ sections:
     design:
       # Choose a layout view
       background:
-        gradient_end: '#eedeb0'
-        gradient_start: '#eedeb0'
+        gradient_end: '#FFFF73'
+        gradient_start: '#FFFF73'
         text_color_light: false
       view: compact
       columns: '2'
