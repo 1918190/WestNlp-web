@@ -86,7 +86,8 @@ sections:
   - block: markdown
     id: people
     content:
-      title: People
+      title: |-
+        <font color="#9EA0A4">People</font>
       subtitle: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
