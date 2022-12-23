@@ -112,7 +112,7 @@ sections:
     id: people
     content:
       title: |-
-        <font color="#ff7b00">People</font>
+        <font color="#003055">People</font>
       subtitle: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
@@ -183,7 +183,8 @@ sections:
       columns: '1'  
   - block: markdown
     content:
-      title: Gallery
+      title: |-
+        <font color="#ff7b00">Gallery</font>
       subtitle: ''
       text: |-
         {{< gallery album="demo">}}           
@@ -192,7 +193,8 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: |-
+        <font color="#003055">Featured Publications</font>
       filters:
         folders:
           - publication
@@ -202,7 +204,8 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: |-
+        <font color="#ff7b00">Recent Publications</font>
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -227,7 +230,8 @@ sections:
 #      view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: |-
+        <font color="#003055">Popular Topics</font>
     design:
       columns: '20'
   - block: contact
