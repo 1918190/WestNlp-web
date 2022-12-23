@@ -7,6 +7,10 @@ type: landing
 sections:
   - block: markdown
     id: header
+    content:
+      title: Gallery1
+      subtitle: ''
+      text:
     design:
       background:
         # Name of image in `assets/media/`.
