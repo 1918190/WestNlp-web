@@ -12,8 +12,8 @@ sections:
         **WestLake Nlp Lab**
       subtitle: ''
       text:
-        Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        <p align="center">Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
+        {{% cta cta_link="https://frcchang.github.io/" cta_text="View Our Github →" %}}</p>
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
