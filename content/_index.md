@@ -11,12 +11,6 @@ sections:
       title: Gallery1
       subtitle: ''
       text:
-    design:
-      background:
-        # Name of image in `assets/media/`.
-        image: icon.png
-        # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-        image_darken: 0.6
   - block: hero
     content:
       title: WestLake Nlp
@@ -28,9 +22,10 @@ sections:
         Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
     design:
       background:
-        gradient_end: '#003055'
-        gradient_start: '#003055'
-        text_color_light: true
+        # Name of image in `assets/media/`.
+        image: icon.png
+        # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+        image_darken: 0.6
 #  - block: about.avatar
 #    id: about
 #    content:
