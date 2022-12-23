@@ -2,7 +2,7 @@
 name = "Custom Theme"
 
 [light]
-  primary = "#FF6461"
+  primary = "#ff7b00"
 
   # Links
   link = "#3273dc"
@@ -15,5 +15,5 @@ name = "Custom Theme"
   menu_title = "#FFFFFF"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(255, 255, 255)"
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#FFFFF0"
