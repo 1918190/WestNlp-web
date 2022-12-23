@@ -9,19 +9,15 @@ sections:
     id: header2
     content:
       title: |-
-        <h1 align="left">
-        
-        ## WestLake Nlp Lab
-        
-        </h1>
+        **WestLake Nlp Lab**
       subtitle: ''
       text:
-        Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
-        {{% cta cta_link="https://frcchang.github.io/" cta_text="View Our Github →" %}}
+        <font align="center">Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
+        {{% cta cta_link="https://frcchang.github.io/" cta_text="View Our Github →" %}}</font>
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["150px", "0", "150px", "0"]
+        padding: ["250px", "0", "250px", "0"]
       background:
         color: black
         text_color_light: true
@@ -35,18 +31,18 @@ sections:
           parallax: false
   - block: hero
     content:
-      title: WestLake Nlp
+      title: Introduction
       image:
-        filename: hero-academic.png
+        filename: sch.jpg
       text: |-
         **Dr. Zhang's main research interests are natural language processing, text mining, machine learning and artificial intelligence, including natural language processing, text mining, machine learning and artificial intelligence.**
 
         Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
     design:
       background:
-        gradient_end: '#003055'
-        gradient_start: '#003055'
-        text_color_light: true
+        gradient_end: '#ffffff'
+        gradient_start: '#ffffff'
+        text_color_light: false
 #  - block: about.avatar
 #    id: about
 #    content:
@@ -268,5 +264,9 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     design:
+      background:
+        gradient_end: '#003055'
+        gradient_start: '#003055'
+        text_color_light: true
       columns: '2'
 ---
