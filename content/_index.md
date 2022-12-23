@@ -12,12 +12,12 @@ sections:
         **WestLake Nlp Lab**
       subtitle: ''
       text:
-        <font align="center">Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
-        {{% cta cta_link="https://frcchang.github.io/" cta_text="View Our Github →" %}}</font>
+        <p align="center">Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
+        </p>
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["250px", "0", "250px", "0"]
+        padding: ["150px", "0", "150px", "0"]
       background:
         color: black
         text_color_light: true
@@ -35,7 +35,8 @@ sections:
       image:
         filename: sch.jpg
       text: |-
-        **Dr. Zhang's main research interests are natural language processing, text mining, machine learning and artificial intelligence, including natural language processing, text mining, machine learning and artificial intelligence.**
+
+        Dr. Zhang's main research interests are natural language processing, text mining, machine learning and artificial intelligence, including natural language processing, text mining, machine learning and artificial intelligence.
 
         Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
     design:
