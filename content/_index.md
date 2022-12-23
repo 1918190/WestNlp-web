@@ -9,7 +9,11 @@ sections:
     id: header2
     content:
       title: |-
-        <font align="left"><h2>WestLake Nlp Lab</h2></font>
+        <font align="left">
+        
+        ## WestLake Nlp Lab
+        
+        </font>
       subtitle: ''
       text:
         Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
