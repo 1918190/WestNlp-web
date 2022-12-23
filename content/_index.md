@@ -8,9 +8,14 @@ sections:
   - block: markdown
     id: header2
     content:
-      title: 
+      title: |-
+        **WestLake Nlp Lab**
       subtitle: ''
+      cta:
+        label: Get Started
+        url: https://wowchemy.com/templates/
       text:
+        Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
