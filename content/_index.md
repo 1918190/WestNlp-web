@@ -14,7 +14,7 @@ sections:
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["150px", "0", "150px", "0"]
+        padding: ["250px", "0", "250px", "0"]
       background:
         color: black
         text_color_light: true
