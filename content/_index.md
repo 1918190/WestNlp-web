@@ -51,6 +51,9 @@ sections:
       order: desc
     design:
       # Choose a layout view
+      background:
+        gradient_end: '#9EA0A4'
+        gradient_start: '#9EA0A4'
       view: compact
       columns: '2'
 #  - block: portfolio
