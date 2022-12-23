@@ -6,7 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+#  theme_day: minimal
+  theme_day: westlake
   theme_night: minimal
   font: minimal
   font_size: L
