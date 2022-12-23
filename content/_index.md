@@ -87,7 +87,7 @@ sections:
     id: people
     content:
       title: |-
-        <font color="#9EA0A4">People</font>
+        <font color="#ff7b00">People</font>
       subtitle: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Override your bio text from `authors/admin/_index.md`?
