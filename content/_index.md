@@ -11,11 +11,9 @@ sections:
       title: |-
         **WestLake Nlp Lab**
       subtitle: ''
-      cta:
-        label: Get Started
-        url: https://wowchemy.com/templates/
       text:
         Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
