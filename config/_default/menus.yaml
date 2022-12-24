@@ -26,7 +26,7 @@ main:
     url: '#projects'
     weight: 60
   - name: Reading Group
-    url: '#taaalks'
+    url: './publication/'
     weight: 70
   - name: Talks
     url: '#talks'
