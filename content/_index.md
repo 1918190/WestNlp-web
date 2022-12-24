@@ -223,6 +223,7 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
+    id: publication
     content:
       title: |-
         <font color="#ff7b00">Recent Publications</font>

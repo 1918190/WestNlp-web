@@ -13,21 +13,27 @@ main:
   - name: News
     url: '#posts'
     weight: 20
-#  - name: Projects
-#    url: '#projects'
-#    weight: 30
   - name: People
     url: '#people'
-    weight: 50
+    weight: 30
   - name: Publications
-    url: '#featured'
+    url: '#publication'
+    weight: 40
+  - name: Teaching
+    url: '#teach'
     weight: 50
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
-  - name: Join Us
-    url: '#contact'
+  - name: Projects
+    url: '#projdects'
     weight: 60
+  - name: Reading Group
+    url: '#taaalks'
+    weight: 70
+  - name: Talks
+    url: '#taalks'
+    weight: 80
+  - name: Joining
+    url: '#contact'
+    weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
