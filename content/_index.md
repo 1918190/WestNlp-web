@@ -55,7 +55,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 2
       # Filter on criteria
       filters:
         folders:
@@ -254,6 +254,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      count: 1
       filters:
         folders:
           - event
