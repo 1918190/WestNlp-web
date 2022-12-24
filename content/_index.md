@@ -250,16 +250,16 @@ sections:
         Please send an email to ryan.cotterell@inf.ethz.ch with CC to clara.meister@inf.ethz.ch and niklas.stoehr@inf.ethz.ch and state either [bachelor’s thesis](./post/jupyter/) or [master’s thesis] at the start of the subject. For us to get to know you a little, please write a paragraph introducing yourself and why you are interested in working with us. It would help us a lot if you also provided a list of four or five more concrete topics that you are interested in. We will try our best to find a project that suits your interests. We are looking forward to receiving your inquiry!           
     design:
       columns: '2'  
-#  - block: collection
-#    id: talks
-#    content:
-#      title: Recent & Upcoming Talks
-#      filters:
-#        folders:
-#          - event
-#    design:
-#      columns: '2'
-#      view: compact
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: tag_cloud
     content:
       title: |-

@@ -29,7 +29,7 @@ main:
     url: '#taaalks'
     weight: 70
   - name: Talks
-    url: '#taalks'
+    url: '#talks'
     weight: 80
   - name: Joining
     url: '#contact'
