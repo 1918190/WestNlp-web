@@ -33,7 +33,7 @@ sections:
     id: introduction
     content:
       title: 
-        <font color="#ff7b00">WestLakeNLP</font>
+        <font color="#003055">WestLakeNLP</font>
       image:
         filename: sch.jpg
       text: |-
@@ -241,11 +241,11 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: <font color="#003055">Teaching</font>
       count: 1
       filters:
         folders:
-          - event
+          - teaching
     design:
       columns: '2'
       view: compact
@@ -264,7 +264,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: <font color="#003055">Recent & Upcoming Talks</font>
       count: 1
       filters:
         folders:
@@ -275,7 +275,7 @@ sections:
   - block: tag_cloud
     content:
       title: |-
-        <font color="#003055">Popular Topics</font>
+        <font color="#ff7b00">Popular Topics</font>
     design:
       columns: '20'
   - block: contact
