@@ -1,8 +1,10 @@
 ---
-title: Example Talk
 
-event: Wowchemy Conference
-event_url: https://example.org
+title: Welcome to Wowchemy, the website builder for Hugo
+subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+
+# Summary for listings and search engines
+summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # location: Wowchemy HQ
 # address:
@@ -11,9 +13,6 @@ event_url: https://example.org
 #   region: CA
 #   postcode: '94305'
 #   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
