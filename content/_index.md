@@ -37,7 +37,7 @@ sections:
       image:
         filename: sch.jpg
       text: |-
-        <font size="7">Dr. Zhang's main research interests are natural language processing, text mining, machine learning and artificial intelligence, including natural language processing, text mining, machine learning and artificial intelligence.</font>
+        <font size="4">Dr. Zhang's main research interests are natural language processing, text mining, machine learning and artificial intelligence, including natural language processing, text mining, machine learning and artificial intelligence.</font>
 
         Lexical, syntactic and semantic representation and analysis in Chinese and English basic natural language processing.
 #  - block: about.avatar
