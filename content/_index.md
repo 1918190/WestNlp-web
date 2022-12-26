@@ -33,7 +33,7 @@ sections:
     id: introduction
     content:
       title: 
-        <font color="#ff7b00">Introduction</font>
+        <font color="#ff7b00">WestLakeNLP</font>
       image:
         filename: sch.jpg
       text: |-
@@ -238,6 +238,17 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      count: 1
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: markdown
     id: projects
     content:
