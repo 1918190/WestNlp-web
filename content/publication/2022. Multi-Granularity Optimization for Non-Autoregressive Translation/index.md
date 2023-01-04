@@ -21,7 +21,7 @@ publication_short: "*EMNLP*"
 # url_project: ""
 # url_source: ""
 # url_video: ""
-url_url: https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.339/
+# url_poster: ""
 url_pdf: https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.339.pdf
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_slides: ""
