@@ -34,7 +34,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+- Source Themes
 
 # Display this page in the Featured widget?
 featured: false
@@ -44,11 +45,17 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+links:
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
+url_dataset: '#'
+url_poster: '#'
 url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

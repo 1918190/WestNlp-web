@@ -37,14 +37,14 @@ sections:
       image:
         filename: sch.jpg
       text: |-
-        <font size="4">Dr. Zhang's main research interests are natural language processing, text mining, machine learning and artificial intelligence, including natural language processing, text mining, machine learning and artificial intelligence.</font>
+        <font size="4">Dr. Zhang's main research interests are natural language processing, machine learning and text mining, working on machine learning and inference algorithms for structural prediction, statistical parsing, Chinese syntactic processing, text generation, machine translation, text summarization, dialogue system, information extraction, sentiment analysis and financial market predication.</font>
 
-        **Current Research Interest**
-        <font size="4">
+#        **Current Research Interest**
+#        <font size="4">
 
-        + natural language processing
-        + artificial intelligence
-        </font>
+#        + natural language processing
+#        + artificial intelligence
+#        </font>
 #  - block: about.avatar
 #    id: about
 #    content:
@@ -292,7 +292,7 @@ sections:
       text: |-
         Welcome to join us!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: zhangyue@westlake.edu.cn
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
 #      address:
