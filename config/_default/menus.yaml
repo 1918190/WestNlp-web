@@ -23,7 +23,7 @@ main:
     url: '#teaching'
     weight: 50
   - name: Projects
-    url: '#projects'
+    url: './projects/'
     weight: 60
   - name: Reading Group
     url: './reading/'
