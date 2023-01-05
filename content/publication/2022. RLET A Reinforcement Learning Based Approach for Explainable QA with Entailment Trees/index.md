@@ -29,8 +29,8 @@ url_pdf: https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.483
 # url_slides: ""
 doi: ""
 featured: false
-# tags:
-#  - Source Themes
+tags:
+  - Text Generation
 projects: []
 image:
   caption: "[**Url**](./featured.jpg)"
