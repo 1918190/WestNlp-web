@@ -119,7 +119,7 @@ sections:
         ## Faculty
         <table width="100%" align="center">
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="100" height="150" /><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Zhang Yue</a></h4><font color="#9EA0A4">Tenured Full Professor</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/faculty/zhangyue.jpg" width="150" height="150" /><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Zhang Yue</a></h4><font color="#9EA0A4">Tenured Full Professor</font></td>
             </tr>
         </table>
         
