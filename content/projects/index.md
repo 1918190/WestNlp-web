@@ -1,5 +1,5 @@
 ---
-title: Reading Group
+title: Projects
 # subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get  familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -40,6 +40,6 @@ authors:
 #   - 教程
 ---
 
-## Reading List 2022
+## Project List
 
-{{< table path="results.csv" header="true" caption="Reading List 2022" >}}
+{{< table path="results.csv" header="true" caption="Project List" >}}
