@@ -164,7 +164,7 @@ sections:
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="100" height="150"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="100" height="150"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="100" height="150"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>   
-                <td align="center" style="margin-bottom:40px"><img src="./authors/admin/avatar.jpg" width="100" height="150"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>  
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/minqingkai.jpg" width="100" height="100"/><h4><a href="https://frcchang.github.io/" style="text-decoration: none;">Student 1</a></h4><font color="#9EA0A4">PHD student</font></td>  
             </tr>
         </table> 
 
