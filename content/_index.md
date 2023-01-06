@@ -251,7 +251,7 @@ sections:
   - block: tag_cloud
     content:
       title: |-
-        <font color="#003055">Popular Topics</font>
+        <font color="#ff7b00">Popular Topics</font>
     design:
       columns: '20'
   - block: contact
