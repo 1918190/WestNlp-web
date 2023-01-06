@@ -1,7 +1,7 @@
 ---
 
 title: Natural Language Processing - A Machine Learning Perspective
-subtitle: This online course is based on the recently released textbook, Natural Language Processing - a Machine Learning Perspective, written by Dr. Yue Zhang & Dr. Zhiyang Teng and published by Cambridge University Press. The course is taught in Chinese, English version of the class will be updated in future releases. Professor Yue Zhang is the principal inverstigator of the Text Intelligence Lab, Westlake University, and a well-known NLP researcher. You may find more detailed information at his personal page or Google Scholar. Course updates are in progress on our bilibili account, WestlakeNLP, do not hesitate to follow us! In this page, we will keep updating course slides.
+subtitle: WestLakeNLP · 2022
 
 # Summary for listings and search engines
 summary: |-
@@ -66,16 +66,16 @@ featured: false
 #   - example
 ---
 
-## Materials
+![Natural Language Processing](https://westlakenlp.github.io/nlpml/static_files/presentations/lec.jpg)
 
-### **Book**
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+444dfsfdsf
+{{% /callout %}}
 
-[Natural Language Processing - A Machine Learning Perspective](https://www.cambridge.org/core_title/gb/509717)
+## Course Description
 
-### **Additional Course Materials**
-
-+ Other recomend textbooks and reading materials (update continuing).
-+ [Material #1](https://web.stanford.edu/~jurafsky/slp3/): Speech and Language processing
+This online course is based on the recently released textbook, [Natural Language Processing - a Machine Learning Perspective](https://www.cambridge.org/core_title/gb/509717), written by Dr. Yue Zhang & Dr. Zhiyang Teng and published by Cambridge University Press. The course is taught in Chinese, English version of the class will be updated in future releases. Professor Yue Zhang is the principal inverstigator of the Text Intelligence Lab, Westlake University, and a well-known NLP researcher. You may find more detailed information at his [personal page](https://frcchang.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=6hA7WmUAAAAJ&hl=zh-CN&oi=ao). Course updates are in progress on our bilibili account, [WestlakeNLP](https://space.bilibili.com/639900532), do not hesitate to follow us! In this page, we will keep updating course slides.
 
 ## Instructors
 
@@ -96,9 +96,32 @@ featured: false
     </tr>
 </table> 
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+## Materials
+
+### **Book**
+
+[Natural Language Processing - A Machine Learning Perspective](https://www.cambridge.org/core_title/gb/509717)
+
+### **Additional Course Materials**
+
++ Other recomend textbooks and reading materials (update continuing).
++ [Material #1](https://web.stanford.edu/~jurafsky/slp3/): Speech and Language processing
+
+## Lectures
+
+You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+{{< table path="lectures.csv" header="true" caption="Lectures List" >}}
+
+## Assignments
+
+You can download the assignments here. Also check out each assignment page for any additional info.
+{{< table path="assignments.csv" header="true" caption="Assignments List" >}}
+
+#### **Late Policy**
+- You have free 8 late days.
+- You can use late days for assignments. A late day extends the deadline 24 hours.
+- Once you have used all 8 late days, the penalty is 10% for each additional late day.
+
 
 Slides can be added in a few ways:
 
