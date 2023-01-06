@@ -69,8 +69,14 @@ featured: false
 ![Natural Language Processing](https://westlakenlp.github.io/nlpml/static_files/presentations/lec.jpg)
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-444dfsfdsf
+#### **Updates**
++ Our class is now forwarded to [Zhihu](https://www.zhihu.com/education/video-course/1564218549538607104?section_id=1566029317481652224)，feel free to follow us!
++ New Lecture is online: Working with two texts [video] [slides]
++ New Lecture is online: Neural structured prediction [video] [slides]
++ New Lecture is online: Representation learning [video] [slides]
++ New Assignment released: [Assignment #9 - chapter 9]
++ New Lecture is online: Transition-based method for structure prediction [video] [slides]
++ New Assignment released: [Assignment #8 - chapter 8]
 {{% /callout %}}
 
 ## Course Description
@@ -115,18 +121,8 @@ You can download the lectures here. We will try to upload lectures prior to thei
 ## Assignments
 
 You can download the assignments here. Also check out each assignment page for any additional info.
-{{< table path="assignments.csv" header="true" caption="Assignments List" >}}
-
 #### **Late Policy**
 - You have free 8 late days.
 - You can use late days for assignments. A late day extends the deadline 24 hours.
 - Once you have used all 8 late days, the penalty is 10% for each additional late day.
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+{{< table path="assignments.csv" header="true" caption="Assignments List" >}}
