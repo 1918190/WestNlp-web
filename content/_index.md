@@ -143,13 +143,13 @@ sections:
             <tr>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/baixuefeng.jpg" width="100" height="100"/><h4><a href="https://goodbai-nlp.github.io/" style="text-decoration: none;">Bai Xuefeng</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/baoguangsheng.jpg" width="100" height="100"/><h4>Bao Guangsheng</h4><font color="#9EA0A4">PHD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/chenyulong.jpg" width="100" height="100"/><h4>Chen Yulong</h4><font color="#9EA0A4">PHD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/fuqiankun.jpg" width="100" height="100"/><h4>Fu Qiankun</h4><font color="#9EA0A4">PHD student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/chenyulong.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=8P23zSkAAAAJ&hl=en" style="text-decoration: none;">Chen Yulong</a></h4><font color="#9EA0A4">PHD student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/fuqiankun.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=UOoP794AAAAJ&hl=zh-CN" style="text-decoration: none;">Fu Qiankun</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/gaowenyang.jpg" width="100" height="100"/><h4>Gao Wenyang</h4><font color="#9EA0A4">PHD student</font></td>                                
             </tr>
             <tr>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/guofang.jpg" width="100" height="100"/><h4>Guo Fang</h4><font color="#9EA0A4">PHD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/liuhanmeng.jpg" width="100" height="100"/><h4>Liu Hanmeng</h4><font color="#9EA0A4">PHD student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/liuhanmeng.jpg" width="100" height="100"/><h4><a href="https://www.dtalg.com/" style="text-decoration: none;">Liu Hanmeng</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/liyafu.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=gEceD-sAAAAJ&hl=en" style="text-decoration: none;">Li Yafu</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/luoyun.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=B_bdRlAAAAAJ&hl=zh-CN&authuser=1" style="text-decoration: none;">Luo Yun</a></h4><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/minqingkai.jpg" width="100" height="100"/><h4><a href="https://taolusi.github.io/qingkai_min/" style="text-decoration: none;">Min Qingkai</a></h4><font color="#9EA0A4">PHD student</font></td>  
