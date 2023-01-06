@@ -71,12 +71,12 @@ featured: false
 {{% callout note %}}
 #### **Updates**
 + Our class is now forwarded to [Zhihu](https://www.zhihu.com/education/video-course/1564218549538607104?section_id=1566029317481652224)，feel free to follow us!
-+ New Lecture is online: Working with two texts [video](https://www.bilibili.com/video/BV1td4y1r7pw?t=0.5) [slides](https://westlakenlp.github.io/nlpml/static_files/presentations/slide17.pdf)
-+ New Lecture is online: Neural structured prediction [video](https://www.bilibili.com/video/BV1CG411V7aY?t=5.5) [slides](https://westlakenlp.github.io/nlpml/static_files/presentations/slide16.pdf)
-+ New Lecture is online: Representation learning [video](https://www.bilibili.com/video/BV16v4y1c7uF?t=1.2) [slides](https://westlakenlp.github.io/nlpml/static_files/presentations/slide15.pdf)
-+ New Assignment released: [Assignment #9 - chapter 9](https://westlakenlp.github.io/nlpml/assignments/09_assignment)
-+ New Lecture is online: Transition-based method for structure prediction [video](https://www.bilibili.com/video/BV13R4y1w7pd?t=2.5) [slides](https://westlakenlp.github.io/nlpml/static_files/presentations/slide13.pdf)
-+ New Assignment released: [Assignment #8 - chapter 8](https://westlakenlp.github.io/nlpml/assignments/08_assignment)
++ New Lecture is online: Working with two texts [[video](https://www.bilibili.com/video/BV1td4y1r7pw?t=0.5)] [[slides](https://westlakenlp.github.io/nlpml/static_files/presentations/slide17.pdf)]
++ New Lecture is online: Neural structured prediction [[video](https://www.bilibili.com/video/BV1CG411V7aY?t=5.5)] [[slides](https://westlakenlp.github.io/nlpml/static_files/presentations/slide16.pdf)]
++ New Lecture is online: Representation learning [[video](https://www.bilibili.com/video/BV16v4y1c7uF?t=1.2)] [[slides](https://westlakenlp.github.io/nlpml/static_files/presentations/slide15.pdf)]
++ New Assignment released: [[Assignment #9 - chapter 9](https://westlakenlp.github.io/nlpml/assignments/09_assignment)]
++ New Lecture is online: Transition-based method for structure prediction [[video](https://www.bilibili.com/video/BV13R4y1w7pd?t=2.5)] [[slides](https://westlakenlp.github.io/nlpml/static_files/presentations/slide13.pdf)]
++ New Assignment released: [[Assignment #8 - chapter 8](https://westlakenlp.github.io/nlpml/assignments/08_assignment)]
 {{% /callout %}}
 
 ## Course Description
