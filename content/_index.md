@@ -218,7 +218,7 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
-      count: 5
+      count: 15
       filters:
         folders:
           - publication
@@ -237,17 +237,17 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
-    id: talks
-    content:
-      title: <font color="#ff7b00">Recent & Upcoming Talks</font>
-      count: 1
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+#  - block: collection
+#    id: talks
+#    content:
+#      title: <font color="#ff7b00">Recent & Upcoming Talks</font>
+#      count: 1
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      columns: '2'
+#      view: compact
   - block: tag_cloud
     content:
       title: |-
