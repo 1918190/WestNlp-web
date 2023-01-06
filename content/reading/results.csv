@@ -5,8 +5,8 @@ CausaLM: Causal Model Explanation through Counterfactual Language Models,2022/9/
 AI and the Everything in the Whole Wide World Benchmark,2022/9/29,3:30-4:30pm,Naihao Deng,
 [Bias Mitigation in Machine Translation Quality Estimation](https://aclanthology.org/2022.acl-long.104.pdf),2022/10/10,1:30-2:30pm,Yafu Li,
 Discussion for AI and the Everything in the Whole Wide World Benchmark,2022/10/10,2:00-3:00pm,,
-[TableFormer: Robust Transformer Modeling for Table-Text Encoding](https://aclanthology.org/2022.acl-long.40/),2022/10/19,2:00-3:00pm,Naihao Deng,[Github](https://github.com/google-research/tapas)
-[Self-explaining deep models with logic rule reasoning](https://www.microsoft.com/en-us/research/uploads/prod/2022/10/CameraReady_NeurIPS22_SELOR.pdf),2022/10/26,2:00-4:00pm,Linyi Yang,[Microsoft Research](https://researchsummit.microsoft.com/en-US/sessions/8f704b9f-c421-4b59-b019-579f3e359793?source=/community-connect) [Code](https://github.com/archon159/SELOR)
+[TableFormer: Robust Transformer Modeling for Table-Text Encoding](https://aclanthology.org/2022.acl-long.40/),2022/10/19,2:00-3:00pm,Naihao Deng,[[Github](https://github.com/google-research/tapas)]
+[Self-explaining deep models with logic rule reasoning](https://www.microsoft.com/en-us/research/uploads/prod/2022/10/CameraReady_NeurIPS22_SELOR.pdf),2022/10/26,2:00-4:00pm,Linyi Yang,[[Microsoft Research](https://researchsummit.microsoft.com/en-US/sessions/8f704b9f-c421-4b59-b019-579f3e359793?source=/community-connect)] [[Code](https://github.com/archon159/SELOR)]
 [Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation](https://arxiv.org/pdf/2206.02369.pdf),2022/10/26,2:00-4:00pm,Jianhao Yan,
 [Better Language Model with Hypernym Class Prediction](https://arxiv.org/pdf/2203.10692v1.pdf),2022/10/26,2:00-4:00pm,Guangsheng Bao,
 Open Domain Question Answering with A Unified Knowledge Interface,2022/11/2,2:00-4:00pm,Cunxiang Wang and Naihao Deng,
