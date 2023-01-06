@@ -139,7 +139,7 @@ sections:
         </table> 
 
         ## PHD Students
-        <table width="100%" align="center">
+        <table width="100%" align="center" style="table-layout:fixed;">
             <tr>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/baixuefeng.jpg" width="100" height="100"/><h5><a href="https://goodbai-nlp.github.io/" style="text-decoration: none;">Bai Xuefeng</a></h5><font color="#9EA0A4">PHD student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/baoguangsheng.jpg" width="100" height="100"/><h5>Bao Guangsheng</h5><font color="#9EA0A4">PHD student</font></td>
