@@ -27,7 +27,7 @@ url_pdf: https://aclanthology.org/2022.acl-long.415.pdf
 doi: ""
 featured: false
 tags:
-  - Text Generations
+  - Text Generation
 projects: []
 image:
   caption: "[**Url**](./featured.jpg)"
