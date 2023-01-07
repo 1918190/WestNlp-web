@@ -7,8 +7,8 @@ date: 2016-04-27T00:00:00Z
 external_link: ""
 url_slides: ""
 title: Example Project
-tags:
-  - Deep Learning
+# tags:
+#   - Deep Learning
 links:
   - icon: twitter
     icon_pack: fab
