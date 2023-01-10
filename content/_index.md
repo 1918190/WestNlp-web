@@ -182,8 +182,33 @@ sections:
         </table>
 
         ## Alummi
-        + Post-doctors
-          - Zhongqing Wang, Feb. 2016 -- Jan. 2017; now at Soochow University, China
+        - Post-doctors
+          + Zhongqing Wang, Feb. 2016 -- Jan. 2017; now at Soochow University, China
+          + Thien Hai Nguyen, Feb.2016 -- Jan. 2017; now at Alibaba in Singapore
+          + Chingyun Chang, Mar. 2015 - Feb. 2016; now at Amazon London, UK
+          + Yafeng Ren, Sep. 2015 -- Sep. 2016; now at Guangdong University of Foreign Studies, China
+          + Meishan Zhang, Nov. 2014 - Nov. 2015; now works as associated professor at Tianjin University, China
+          + Likun Qiu, Jan. 2014 - Jan. 2015; now research fellow at Alibaba, China
+        - Research Assistants
+          + Yuze Gao, Oct. 2016 - Aug. 2018；now works as a research engineer at A-STAR*, Singapore
+          + Yu Yuan, Aug. 2017 - Jun. 2018; now at Nanjing University of Information Science and Technology
+          + Qi Liu, Mar. 2017 - Mar. 2018; now Ph.d candidate at University of Oxford
+          + Homgmin Wang, Aug. 2016 – Aug. 2017; now Ph.d candidate at UCSB
+          + Ratish Puduppully, Mar. 2017 – Sep. 2017; now Ph.d candidate at University of Edinburgh
+          + Jiangming Liu, May. 2015 - Sep. 2017; now Ph.d candidate at University of Edinburgh
+          + Hongshen Chen, Dec. 2015 – Jun. 2016; now at JD, China
+          + Lin Li, Aug. 2015 -- Jan. 2016; now at Huawei, China
+          + Yijia Liu, Nov. 2013 - Nov. 2014; now at Alibaba, China
+          + Zhongye Jia, May. 2013 - Feb. 2014; Baosteel Central Research Institute, China
+        - Graduated Phd Students
+          + Jie Yang, now Postdoc at Harford University, USA
+          + Fei Dong, now works at Ebay Shanghai, China
+          + Tin D. Vo, currently a data scientist at  Chata.ai., Canada
+          + Zhiyang Teng , currently works as a research associate at NTU, Singapore
+          + Qiankun Fu , now Postdoc at Zhejing City College, China
+          + Yile Wang , now Postdoc at Tsinghua University, China
+          + Leyang Cui , now works at Tencent, China
+          + Jian Liu , now Postdoc at Putian University, China
     design:
       columns: '1'  
 #  - block: markdown
