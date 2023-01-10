@@ -29,7 +29,7 @@ featured: false
 #   preview_only: false
 
 authors:
-  - WestLakeNLP
+  - WestlakeNLP
 
 # tags:
 #   - Academic

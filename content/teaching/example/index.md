@@ -1,11 +1,11 @@
 ---
 
 title: Natural Language Processing - A Machine Learning Perspective
-subtitle: WestLakeNLP · 2022
+subtitle: WestlakeNLP · 2022
 
 # Summary for listings and search engines
 summary: |-
-  **WestLakeNLP · 2022**
+  **WestlakeNLP · 2022**
   
   This online course is based on the recently released textbook, Natural Language Processing - a Machine Learning Perspective, written by Dr. Yue Zhang & Dr. Zhiyang Teng and published by Cambridge University Press. The course is taught in Chinese, English version of the class will be updated in future releases. Professor Yue Zhang is the principal inverstigator of the Text Intelligence Lab, Westlake University, and a well-known NLP researcher. You may find more detailed information at his personal page or Google Scholar. Course updates are in progress on our bilibili account, WestlakeNLP, do not hesitate to follow us! In this page, we will keep updating course slides.
 

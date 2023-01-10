@@ -141,51 +141,49 @@ sections:
         ## PhD Students
         <table width="100%" align="center" style="table-layout:fixed;">
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/baixuefeng.jpg" width="100" height="100"/><h4><a href="https://goodbai-nlp.github.io/" style="text-decoration: none;">Xuefeng Bai</a></h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/baoguangsheng.jpg" width="100" height="100"/><h4>Guangsheng Bao</h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/chenyulong.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=8P23zSkAAAAJ&hl=en" style="text-decoration: none;">Yulong Chen</a></h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/gaowenyang.jpg" width="100" height="100"/><h4>Wenyang Gao</h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/guofang.jpg" width="100" height="100"/><h4>Fang Guo</h4><font color="#9EA0A4">PhD student</font></td>                                
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/baixuefeng.jpg" width="100" height="100"/><h4><a href="https://goodbai-nlp.github.io/" style="text-decoration: none;">Xuefeng Bai</a></h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/baoguangsheng.jpg" width="100" height="100"/><h4>Guangsheng Bao</h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/chenyulong.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=8P23zSkAAAAJ&hl=en" style="text-decoration: none;">Yulong Chen</a></h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/gaowenyang.jpg" width="100" height="100"/><h4>Wenyang Gao</h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/guofang.jpg" width="100" height="100"/><h4>Fang Guo</h4><font color="#9EA0A4">PhD Student</font></td>                                
             </tr>
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/liuhanmeng.jpg" width="100" height="100"/><h4><a href="https://www.dtalg.com/" style="text-decoration: none;">Hanmeng Liu</a></h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/liyafu.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=gEceD-sAAAAJ&hl=en" style="text-decoration: none;">Yafu Li</a></h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/luoyun.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=B_bdRlAAAAAJ&hl=zh-CN&authuser=1" style="text-decoration: none;">Yun Luo</a></h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/minqingkai.jpg" width="100" height="100"/><h4><a href="https://taolusi.github.io/qingkai_min/" style="text-decoration: none;">Qingkai Min</a></h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/songchiyu.jpg" width="100" height="100"/><h4>Chiyu Song</h4><font color="#9EA0A4">PhD student</font></td>  
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/liuhanmeng.jpg" width="100" height="100"/><h4><a href="https://www.dtalg.com/" style="text-decoration: none;">Hanmeng Liu</a></h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/liyafu.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=gEceD-sAAAAJ&hl=en" style="text-decoration: none;">Yafu Li</a></h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/luoyun.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=B_bdRlAAAAAJ&hl=zh-CN&authuser=1" style="text-decoration: none;">Yun Luo</a></h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/minqingkai.jpg" width="100" height="100"/><h4><a href="https://taolusi.github.io/qingkai_min/" style="text-decoration: none;">Qingkai Min</a></h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/songchiyu.jpg" width="100" height="100"/><h4>Chiyu Song</h4><font color="#9EA0A4">PhD Student</font></td>  
             </tr>
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/songyaoxian.jpg" width="100" height="100"/><h4>Yaoxian Song</h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/wangcunxiang.jpg" width="100" height="100"/><h4><a href="https://wangcunxiang.github.io/" style="text-decoration: none;">Cunxiang Wang</a></h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/wusixuan.jpg" width="100" height="100"/><h4>Sixuan Wu</h4><font color="#9EA0A4">PhD student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/yanjianhao.jpg" width="100" height="100"/><h4>Jianhao Yan</h4><font color="#9EA0A4">PhD student</font></td>  
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/yangzijie.jpg" width="100" height="100"/><h4>Zijie Yang</h4><font color="#9EA0A4">PhD student</font></td> 
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/songyaoxian.jpg" width="100" height="100"/><h4>Yaoxian Song</h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/wangcunxiang.jpg" width="100" height="100"/><h4><a href="https://wangcunxiang.github.io/" style="text-decoration: none;">Cunxiang Wang</a></h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/wusixuan.jpg" width="100" height="100"/><h4>Sixuan Wu</h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/yanjianhao.jpg" width="100" height="100"/><h4>Jianhao Yan</h4><font color="#9EA0A4">PhD Student</font></td>  
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/yangzijie.jpg" width="100" height="100"/><h4>Zijie Yang</h4><font color="#9EA0A4">co-supervisor</font></td> 
             </tr>
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/yinyongjing.jpg" width="100" height="100"/><h4>Yongjing Yin</h4><font color="#9EA0A4">PhD student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/yinyongjing.jpg" width="100" height="100"/><h4>Yongjing Yin</h4><font color="#9EA0A4">PhD Student</font></td>
             </tr>
         </table> 
 
         ## Research Assistants
         <table width="100%" align="center" style="table-layout:fixed;">
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/huhanxu.jpg" width="100" height="100"/><h4>Hanxu Hu</h4><font color="#9EA0A4">WestLake University</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/liupai.jpg" width="100" height="100"/><h4>Pai Liu</h4><font color="#9EA0A4">WestLake University</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/ouzebin.jpg" width="100" height="100"/><h4>Zebin Ou</h4><font color="#9EA0A4">WestLake University</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/shiyuefeng.jpg" width="100" height="100"/><h4>Yuefeng Shi</h4><font color="#9EA0A4">WestLake University</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangfuting.jpg" width="100" height="100"/><h4>Futing Wang</h4><font color="#9EA0A4">WestLake University</font></td>  
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/huhanxu.jpg" width="100" height="100"/><h4>Hanxu Hu</h4><font color="#9EA0A4">Westlake University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/liupai.jpg" width="100" height="100"/><h4>Pai Liu</h4><font color="#9EA0A4">Westlake University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/ouzebin.jpg" width="100" height="100"/><h4>Zebin Ou</h4><font color="#9EA0A4">Westlake University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/shiyuefeng.jpg" width="100" height="100"/><h4>Yuefeng Shi</h4><font color="#9EA0A4">Westlake University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangfuting.jpg" width="100" height="100"/><h4>Futing Wang</h4><font color="#9EA0A4">Westlake University</font></td>  
             </tr>
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangyidong.jpg" width="100" height="100"/><h4><a href="https://qianlanwyd.github.io/" style="text-decoration: none;">Yidong Wang</a></h4><font color="#9EA0A4">WestLake University</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangyuelun.jpg" width="100" height="100"/><h4>Yueguan Wang</h4><font color="#9EA0A4">WestLake University</font></td> 
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangyidong.jpg" width="100" height="100"/><h4><a href="https://qianlanwyd.github.io/" style="text-decoration: none;">Yidong Wang</a></h4><font color="#9EA0A4">Weslake University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangyuelun.jpg" width="100" height="100"/><h4>Yueguan Wang</h4><font color="#9EA0A4">Westlake University</font></td> 
             </tr>
         </table>
 
         ## Alummi
-        <table width="100%" align="center" style="table-layout:fixed;">
-            <tr>
-            </tr>
-        </table>
+        + Post-doctors
+          - Zhongqing Wang, Feb. 2016 -- Jan. 2017; now at Soochow University, China
     design:
       columns: '1'  
 #  - block: markdown
