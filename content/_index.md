@@ -201,14 +201,14 @@ sections:
           + Yijia Liu, Nov. 2013 - Nov. 2014; now at Alibaba, China
           + Zhongye Jia, May. 2013 - Feb. 2014; Baosteel Central Research Institute, China
         - Graduated Phd Students
-          + Jie Yang, now Postdoc at Harford University, USA
+          + Jie Yang, now Assistant Professor at Zhejing University, China
           + Fei Dong, now works at Ebay Shanghai, China
           + Tin D. Vo, currently a data scientist at  Chata.ai., Canada
           + Zhiyang Teng , currently works as a research associate at NTU, Singapore
-          + Qiankun Fu , now Postdoc at Zhejing City College, China
+          + Qiankun Fu , now Lecture at Zhejing City College, China
           + Yile Wang , now Postdoc at Tsinghua University, China
           + Leyang Cui , now works at Tencent, China
-          + Jian Liu , now Postdoc at Putian University, China
+          + Jian Liu , now Lecture at Putian University, China
     design:
       columns: '1'  
 #  - block: markdown
