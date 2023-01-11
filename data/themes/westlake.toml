@@ -20,9 +20,9 @@ name = "Custom Theme"
 
 [dark]
   primary = "#ff7b00"
-  link = "#ff7b00"
-  link_hover = "#ff7b00"
-  background = "rgb(218,112,214)"
+  # link = "#ff7b00"
+  # link_hover = "#ff7b00"
+  # background = "rgb(218,112,214)"
   # home_section_odd = "rgb(26, 32, 44)"
   # home_section_even = "rgb(26, 32, 44)"
   menu_primary = "#003055"
@@ -31,5 +31,5 @@ name = "Custom Theme"
   menu_title = "#FFFFFF"
 
   # Home sections
-  home_section_odd = "#FFC0CB"
-  home_section_even = "#FFFFF0"
+  home_section_odd = "#1A202C"
+  home_section_even = "#1A202C"
