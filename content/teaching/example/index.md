@@ -96,7 +96,7 @@ This online course is based on the recently released textbook, [Natural Language
 <table width="100%" align="center">
     <tr>
         <td align="center" style="margin-bottom:40px"><img src="../../people/phd/chenyulong.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=8P23zSkAAAAJ&hl=en" style="text-decoration: none;">Chen Yulong</a></h4></td>
-        <td align="center" style="margin-bottom:40px"><img src="../../people/phd/fuqiankun.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=UOoP794AAAAJ&hl=zh-CN" style="text-decoration: none;">Fu Qiankun</a></h4></td>
+        <td align="center" style="margin-bottom:40px"><img src="../../people/alummi/fuqiankun.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=UOoP794AAAAJ&hl=zh-CN" style="text-decoration: none;">Fu Qiankun</a></h4></td>
         <td align="center" style="margin-bottom:40px"><img src="../../people/phd/liuhanmeng.jpg" width="100" height="100"/><h4><a href="https://www.dtalg.com/" style="text-decoration: none;">Liu Hanmeng</a></h4></td>   
         <td align="center" style="margin-bottom:40px"><img src="../../people/research_assistants/liupai.jpg" width="100" height="100"/><h4>Liu Pai</h4></td>                        
     </tr>

@@ -171,6 +171,7 @@ sections:
             <tr>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/huhanxu.jpg" width="100" height="100"/><h4>Hanxu Hu</h4><font color="#9EA0A4">Westlake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/liupai.jpg" width="100" height="100"/><h4>Pai Liu</h4><font color="#9EA0A4">Westlake University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/mayingpeng.jpg" width="100" height="100"/><h4>Yingpeng Ma</h4><font color="#9EA0A4">Westlake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/ouzebin.jpg" width="100" height="100"/><h4>Zebin Ou</h4><font color="#9EA0A4">Westlake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/shiyuefeng.jpg" width="100" height="100"/><h4>Yuefeng Shi</h4><font color="#9EA0A4">Westlake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangfuting.jpg" width="100" height="100"/><h4>Futing Wang</h4><font color="#9EA0A4">Westlake University</font></td>  
@@ -261,7 +262,6 @@ sections:
     design:
       columns: '2'
       view: compact
-      title_color_light: true
 #  - block: collection
 #    id: talks
 #    content:
