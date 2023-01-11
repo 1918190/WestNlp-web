@@ -200,12 +200,13 @@ sections:
           + Lin Li, Aug. 2015 -- Jan. 2016; now at Huawei, China
           + Yijia Liu, Nov. 2013 - Nov. 2014; now at Alibaba, China
           + Zhongye Jia, May. 2013 - Feb. 2014; Baosteel Central Research Institute, China
+          + Zhixuan Zhou, Jun. 2019 - Jul. 2019; now Ph.d student at UIUC 
         - Graduated Phd Students
-          + Jie Yang, now Assistant Professor at Zhejing University, China
+          + Jie Yang, now Assistant Professor at Zhejiang University, China
           + Fei Dong, now works at Ebay Shanghai, China
           + Tin D. Vo, currently a data scientist at  Chata.ai., Canada
           + Zhiyang Teng , currently works as a research associate at NTU, Singapore
-          + Qiankun Fu , now Lecture at Zhejing City College, China
+          + Qiankun Fu , now Lecture at Zhejiang City College, China
           + Yile Wang , now Postdoc at Tsinghua University, China
           + Leyang Cui , now works at Tencent, China
           + Jian Liu , now Lecture at Putian University, China
