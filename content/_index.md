@@ -201,7 +201,7 @@ sections:
           + Lin Li, Aug. 2015 -- Jan. 2016; now at Huawei, China
           + Yijia Liu, Nov. 2013 - Nov. 2014; now at Alibaba, China
           + Zhongye Jia, May. 2013 - Feb. 2014; Baosteel Central Research Institute, China
-          + Zhixuan Zhou, Jun. 2019 - Jul. 2019; now Ph.d student at UIUC 
+          + <a href="https://kyriezz.com" style="text-decoration: none;">Zhixuan Zhou</a>, Jun. 2019 - Jul. 2019; now Ph.d student at UIUC 
         - Graduated Phd Students
           + Jie Yang, now Assistant Professor at Zhejiang University, China
           + Fei Dong, now works at Ebay Shanghai, China
