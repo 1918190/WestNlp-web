@@ -174,9 +174,9 @@ sections:
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/mayingpeng.jpg" width="100" height="100"/><h4>Yingpeng Ma</h4><font color="#9EA0A4">Westlake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/ouzebin.jpg" width="100" height="100"/><h4>Zebin Ou</h4><font color="#9EA0A4">Westlake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/shiyuefeng.jpg" width="100" height="100"/><h4>Yuefeng Shi</h4><font color="#9EA0A4">Westlake University</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangfuting.jpg" width="100" height="100"/><h4>Futing Wang</h4><font color="#9EA0A4">Westlake University</font></td>  
             </tr>
             <tr>
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangfuting.jpg" width="100" height="100"/><h4>Futing Wang</h4><font color="#9EA0A4">Westlake University</font></td>  
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangyidong.jpg" width="100" height="100"/><h4><a href="https://qianlanwyd.github.io/" style="text-decoration: none;">Yidong Wang</a></h4><font color="#9EA0A4">Weslake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangyuelun.jpg" width="100" height="100"/><h4>Yueguan Wang</h4><font color="#9EA0A4">Westlake University</font></td> 
             </tr>
