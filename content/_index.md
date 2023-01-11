@@ -261,6 +261,7 @@ sections:
     design:
       columns: '2'
       view: compact
+      title_color_light: true
 #  - block: collection
 #    id: talks
 #    content:
