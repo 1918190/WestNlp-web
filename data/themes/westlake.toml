@@ -20,9 +20,9 @@ name = "Custom Theme"
 
 [dark]
   primary = "#ff7b00"
-  # link = "#bbdefb"
-  # link_hover = "#bbdefb"
-  # background = "rgb(218,112,214)"
+  link = "#ff7b00"
+  link_hover = "#ff7b00"
+  background = "rgb(218,112,214)"
   # home_section_odd = "rgb(26, 32, 44)"
   # home_section_even = "rgb(26, 32, 44)"
   menu_primary = "#003055"
